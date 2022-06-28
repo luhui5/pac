@@ -33,6 +33,7 @@ var rules = [
 	"||assimp.org",
 	"||athenaeizou.com",
 	"||azubu.tv",
+	"||*github*",
 	"||bankmobilevibe.com",
 	"||banorte.com",
 	"||bash-hackers.org",
